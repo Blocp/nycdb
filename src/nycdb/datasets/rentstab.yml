@@ -1,7 +1,7 @@
 ---
 files:
   -
-    url: http://taxbills.nyc/joined.csv
+    url: http://54.237.32.81:81/joined.csv
     dest: taxbills_joined.csv
 sql:
   - rentstab.sql
