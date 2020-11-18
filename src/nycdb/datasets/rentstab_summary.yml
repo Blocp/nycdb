@@ -1,7 +1,7 @@
 ---
 files:
   -
-    url: http://taxbills.nyc/changes-summary.csv
+    url: http://54.237.32.81:81/changes-summary.csv
     dest: changes-summary.csv
 schema:
   table_name: rentstab_summary
